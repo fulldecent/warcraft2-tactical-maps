@@ -11,6 +11,10 @@ Then they are updated using Inkscape to highlight parts of particular concern.
 
 Print them out for reference when you play. Or keep this page open on your iPad next to your computer when you play.
 
+## The maps
+
+- [World Domination BNE](World Domination BNE.svg) 
+
 ## Project scope
 
 This project exists to share popular maps that are being played on Warcraft II as a quick reference.
