@@ -10,3 +10,7 @@ Then they are updated using Inkscape to highlight parts of particular concern.
 ## How to use
 
 Print them out for reference when you play. Or keep this page open on your iPad next to your computer when you play.
+
+## Project scope
+
+This project exists to share popular maps that are being played on Warcraft II as a quick reference.
