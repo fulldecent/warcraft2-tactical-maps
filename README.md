@@ -13,7 +13,7 @@ Print them out for reference when you play. Or keep this page open on your iPad 
 
 ## The maps
 
-- (World Domination BNE)[World Domination BNE.svg]
+- [World Domination BNE](./World Domination BNE.svg)
 
 ## Project scope
 
